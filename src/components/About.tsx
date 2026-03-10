@@ -6,9 +6,8 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Web developer and product builder building web applications, automation tools, and AI-powered products.
+          Currently developing tools like EduSlide AI, intelligent study systems, and scalable web platforms focused on solving real-world problems.
         </p>
       </div>
     </div>
@@ -16,3 +15,4 @@ const About = () => {
 };
 
 export default About;
+
